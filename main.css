@@ -14,9 +14,18 @@
     border: none;
     padding: 10px 20px;
     cursor: pointer;
+    height:10%;
 }
 
 .bar-button:hover {
     background-color: #2e2f3a;
+    border: solid 1px #202028;
 }
 
+.mySlides {
+    display: block;
+    width: 100%;
+    height: 40%;
+    border:#202028;
+    border-width: 10px;
+}
